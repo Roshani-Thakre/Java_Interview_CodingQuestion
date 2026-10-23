@@ -1,2 +1,0 @@
-# Java_Interview_CodingQuestion
-A collection of frequently asked Java interview coding questions for freshers, covering Core Java, OOP concepts, arrays, strings, collections, loops, and problem-solving. Includes beginner-friendly solutions to help freshers prepare for Java developer interviews and strengthen their programming fundamentals.
